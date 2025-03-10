@@ -1,4 +1,4 @@
-# Lab 7.2: Collecting Digital Evidence
+# Collecting Digital Evidence
 
 ## Objective
 The objective of this lab is to cover aspects of collecting digital evidence as first responders in a way that prevents contamination of evidence. The lab discusses some tools and techniques on both Windows and Linux that are used in this context.
